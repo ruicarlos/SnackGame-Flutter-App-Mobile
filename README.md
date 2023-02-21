@@ -1,16 +1,13 @@
-# snackraz
+# :iphone: Jogo - snackraz Flutter/Dart :iphone:
 
-A new Flutter project.
+Mais um projeto Flutter, dessa vez o tradicional joguinho da cobra.
 
-## Getting Started
+:warning: Esse projeto é um prototipo para teste de jogabilidade e validações de ajuste de Tela
 
-This project is a starting point for a Flutter application.
+## Que Inicial em Flutter
 
-A few resources to get you started if this is your first Flutter project:
+Acesse esses links que deixei aqui abaixo :point_down: 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- :us: [Lab: Escreva seu Primeiro APP em Flutter](https://docs.flutter.dev/get-started/codelab)
+- :us: [Cookbook: Alguns exemplos simples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
